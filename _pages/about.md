@@ -30,7 +30,8 @@ latest_posts:
 
 ## Hi, I’m Xueqing Gao
 
-I’m currently pursuing a second Bachelor's degree at Tongji University and working as a visiting student in the Haibin Ling Lab at Westlake University. My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Yuchuan Qiao group at Fudan University.  
+I’m currently pursuing a second Bachelor's degree at Tongji University and working as a visiting student in the Haibin Ling Lab at Westlake University. My research interests lie at the intersection of optics and machine learning, with a focus on physics-based visls ~/.ssh/id_rsa.pub
+ion and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Yuchuan Qiao group at Fudan University.  
 **<span style="color:red">I am currently looking for PhD positions starting in Fall 2026.</span>**
 
 ---
