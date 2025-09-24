@@ -13,13 +13,13 @@
   contents:
     - title: B.E. in Optoelectronic Information Science and Engineering
       institution: Tongji University, Shanghai, China
-      year: 2022 – 2025 (Expected)
+      year: 2022 - 2025 (Expected)
       description:
         - Major GPA: 90.4 / 95.0 (Rank: 3 / 46)
         - Overall GPA: 87.2 / 95.0
     - title: B.E. in Mechatronic Engineering
       institution: Tongji University, Shanghai, China
-      year: 2021 – 2022
+      year: 2021 - 2022
 
 - title: Research Interests
   type: list
@@ -53,7 +53,7 @@
   contents:
     - title: "Envelope Occlusion Simulation and Recovery using Diffusion Models"
       institution: "Stony Brook University (Remote), PI: Haibin Ling"
-      year: "Apr 2025 – Present"
+      year: "Apr 2025 - Present"
       description:
         - "Developed synthetic dataset with Stable Diffusion + ControlNet"
         - "Trained occlusion-aware restoration models"
@@ -65,7 +65,7 @@
         - Evaluated on KITTI, NYUv2, and campus-captured datasets
     - title: Deep Learning for Diffusion MRI Microstructure Estimation
       institution: Fudan University & USC, PI: Yuchuan Qiao, Yonggang Shi
-      year: Jul 2023 – Feb 2025
+      year: Jul 2023 - Feb 2025
       description:
         - Developed UFO‑3 and FoCUS models
         - Integrated spherical harmonics + biophysical modeling + optimization
@@ -79,7 +79,7 @@
 - title: Talks
   type: time_table
   contents:
-    - title: Invited Talk – UFO‑3: Unsupervised Microstructure Learning
+    - title: Invited Talk - UFO‑3: Unsupervised Microstructure Learning
       institution: MICS Seminar (Medical Image Computing Seminar), Online
       year: 2025-09-16
       description:
@@ -101,7 +101,7 @@
     - year: 2024
       items:
         - Zhuiyuan Scholarship (optical research excellence)
-    - year: 2022–2024
+    - year: 2022-2024
       items:
         - Outstanding Undergraduate Scholarship, Tongji University
 
