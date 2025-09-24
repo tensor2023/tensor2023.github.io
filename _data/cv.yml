@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xueqing Gao
+    - name: Email
+      value: xqgao_tj@outlook.com
     - name: Languages
-      value: English, German
+      value: Chinese (native), English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.E. in Optoelectronic Information Science and Engineering
+      institution: Tongji University, Shanghai, China
+      year: 2022 – 2025 (Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Major GPA: 90.4 / 95.0 (Rank: 3 / 46)
+        - Overall GPA: 87.2 / 95.0
+    - title: B.E. in Mechatronic Engineering
+      institution: Tongji University, Shanghai, China
+      year: 2021 – 2022
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Physics-based Vision
+    - Computational Imaging
+    - Diffusion MRI Microstructure Estimation
+    - Inverse Problems in Medical Imaging
+    - Interpretable Deep Learning
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: UFO‑3: Unsupervised Three-Compartment Learning for Rapid FOD Estimation
+      institution: MICCAI 2025 (Oral, Top 2.2%)
+      year: 2025
+      description:
+        - <strong>Co-first authors:</strong> Xueqing Gao, Rizhong Lin
+        - <strong>Corresponding author:</strong> Yuchuan Qiao
+        - <a href="/assets/pdf/UFO-3_MICCAI2025.pdf">[PDF]</a>
+    - title: Empowering Biomedical Research with Foundation Models in Computational Microscopy
+      institution: Advanced Intelligent Systems (IF: 6.8)
+      year: 2025
+      description:
+        - Co-author
+        - Systematic review of foundation models in microscopy
+
+- title: Project Experience
+  type: time_table
+  contents:
+    - title: Envelope Occlusion Simulation and Recovery using Diffusion Models
+      institution: Stony Brook University (Remote), PI: Haibin Ling
+      year: Apr 2025 – Present
+      description:
+        - Developed synthetic dataset with Stable Diffusion + ControlNet
+        - Trained occlusion-aware restoration models
+    - title: Monocular Depth Estimation with Monodepth2 & DepthAnything
+      institution: Tongji University
+      year: Dec 2024
+      description:
+        - Fine-tuned DepthAnything and re-implemented Monodepth2
+        - Evaluated on KITTI, NYUv2, and campus-captured datasets
+    - title: Deep Learning for Diffusion MRI Microstructure Estimation
+      institution: Fudan University & USC, PI: Yuchuan Qiao, Yonggang Shi
+      year: Jul 2023 – Feb 2025
+      description:
+        - Developed UFO‑3 and FoCUS models
+        - Integrated spherical harmonics + biophysical modeling + optimization
+        - Outperformed state-of-the-art on CHCP, HCP, and simulated data
+
+- title: Technical Blog & Open Resources
+  type: list
+  contents:
+    - <a href="https://tensor2023.github.io/Awesome-Computational-Imaging/index.html"><strong>Awesome Computational Imaging</strong></a>: A curated learning & implementation series covering NeRF, SIREN, Gaussian Splatting, diffusion for inverse problems, and more.
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: Invited Talk – UFO‑3: Unsupervised Microstructure Learning
+      institution: MICS Seminar (Medical Image Computing Seminar), Online
+      year: 2025-09-16
+      description:
+        - Presented MICCAI 2025 oral work and model insights
+
+- title: Visiting Experience
+  type: time_table
+  contents:
+    - title: Remote Visiting Student
+      institution: Haibin Ling’s Lab, Stony Brook University
+      year: Apr 2025
+    - title: Onsite Visiting Student
+      institution: Haibin Ling’s Lab, Westlake University
+      year: Sep 2025
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Zhuiyuan Scholarship (optical research excellence)
+    - year: 2022–2024
+      items:
+        - Outstanding Undergraduate Scholarship, Tongji University
+
+- title: Technical Skills
+  type: list
+  contents:
+    - Programming: Python, MATLAB, Julia, C/C++
+    - Frameworks: PyTorch, TensorFlow, OpenCV
+    - Tools: Zemax, SolidWorks, COMSOL, Origin, STM32CubeIDE

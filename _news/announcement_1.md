@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Joined Haibin Ling's Lab at Stony Brook University
+date: 2025-04-10 09:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I joined **Professor Haibin Ling's lab** at **Stony Brook University** as a **remote visiting student** to explore topics in computational imaging and physics-based vision.
