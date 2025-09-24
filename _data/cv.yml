@@ -33,29 +33,30 @@
 - title: Publications
   type: time_table
   contents:
-    - title: UFO‑3: Unsupervised Three-Compartment Learning for Rapid FOD Estimation
-      institution: MICCAI 2025 (Oral, Top 2.2%)
+    - title: "UFO-3: Unsupervised Three-Compartment Learning for Rapid FOD Estimation"
+      institution: "MICCAI 2025 (Oral, Top 2.2%)"
       year: 2025
       description:
-        - <strong>Co-first authors:</strong> Xueqing Gao, Rizhong Lin
-        - <strong>Corresponding author:</strong> Yuchuan Qiao
-        - <a href="/assets/pdf/UFO-3_MICCAI2025.pdf">[PDF]</a>
-    - title: Empowering Biomedical Research with Foundation Models in Computational Microscopy
-      institution: Advanced Intelligent Systems (IF: 6.8)
+        - "<strong>Co-first authors:</strong> Xueqing Gao, Rizhong Lin"
+        - "<strong>Corresponding author:</strong> Yuchuan Qiao"
+        - "<a href=\"/assets/pdf/UFO-3_MICCAI2025.pdf\">[PDF]</a>"
+    - title: "Empowering Biomedical Research with Foundation Models in Computational Microscopy"
+      institution: "Advanced Intelligent Systems (IF: 6.8)"
       year: 2025
       description:
-        - Co-author
-        - Systematic review of foundation models in microscopy
+        - "Co-author"
+        - "Systematic review of foundation models in microscopy"
+
 
 - title: Project Experience
   type: time_table
   contents:
-    - title: Envelope Occlusion Simulation and Recovery using Diffusion Models
-      institution: Stony Brook University (Remote), PI: Haibin Ling
-      year: Apr 2025 – Present
+    - title: "Envelope Occlusion Simulation and Recovery using Diffusion Models"
+      institution: "Stony Brook University (Remote), PI: Haibin Ling"
+      year: "Apr 2025 – Present"
       description:
-        - Developed synthetic dataset with Stable Diffusion + ControlNet
-        - Trained occlusion-aware restoration models
+        - "Developed synthetic dataset with Stable Diffusion + ControlNet"
+        - "Trained occlusion-aware restoration models"
     - title: Monocular Depth Estimation with Monodepth2 & DepthAnything
       institution: Tongji University
       year: Dec 2024
