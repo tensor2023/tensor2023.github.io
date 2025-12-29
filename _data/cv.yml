@@ -64,7 +64,7 @@
         - Fine-tuned DepthAnything and re-implemented Monodepth2
         - Evaluated on KITTI, NYUv2, and campus-captured datasets
     - title: Deep Learning for Diffusion MRI Microstructure Estimation
-      institution: Fudan University & USC, PI: Yuchuan Qiao, Yonggang Shi
+      institution: "Fudan University & USC, PI: Yuchuan Qiao, Yonggang Shi"
       year: Jul 2023 - Feb 2025
       description:
         - Developed UFO‑3 and FoCUS models
@@ -74,7 +74,7 @@
 - title: Technical Blog & Open Resources
   type: list
   contents:
-    - <a href="https://tensor2023.github.io/Awesome-Computational-Imaging/index.html"><strong>Awesome Computational Imaging</strong></a>: A curated learning & implementation series covering NeRF, SIREN, Gaussian Splatting, diffusion for inverse problems, and more.
+    - "<a href=\"https://tensor2023.github.io/Awesome-Computational-Imaging/index.html\"><strong>Awesome Computational Imaging</strong></a>: A curated learning & implementation series covering NeRF, SIREN, Gaussian Splatting, diffusion for inverse problems, and more."
 
 - title: Talks
   type: time_table
