@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I began an **on-site visiting student** position in **Professor Haibin Ling's lab** at **Westlake University**.
+I began an **on-site visiting student** position in **Prof. Haibin Ling's lab** at **Westlake University**.

@@ -5,8 +5,13 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        {% assign has_middle = site.middle_name | strip %}
+        {% assign has_last = site.last_name | strip %}
+        {% if has_middle != '' or has_last != '' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
+        {% else %}
+          {{ site.first_name }}
+        {% endif %}
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -43,17 +48,9 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
@@ -62,6 +59,14 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Latest posts -->
+    {% if page.latest_posts and page.latest_posts.enabled %}
+      <h2>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+      </h2>
+      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Social -->

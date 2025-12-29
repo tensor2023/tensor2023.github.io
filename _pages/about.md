@@ -2,36 +2,34 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Tongji University</a>. Shanghai, China. <br><a href='mailto:xqgao_tj@outlook.com'>xqgao_tj@outlook.com</a>
+subtitle: '<i class="fa-solid fa-envelope"></i> xqgao_tj AT outlook DOT com  <i class="fa-brands fa-weixin"></i> Tensor2023' 
 
 profile:
   align: right
-  image: assets/img/Me.jpg
+  image: Me.jpg
   image_circular: false
   more_info: >
-    <p>B.E. in Optoelectronics</p>
-    <p>School of Electronics and Information Engineering</p>
-    <p>Tongji University, Shanghai</p>
-    <p>Email: <a href="mailto:xqgao_tj@outlook.com">xqgao_tj@outlook.com</a></p>
+    <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>This photo was taken in Shatoujiao (沙头角), Shenzhen in July 2025. I love this sea.</em></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-## Hi, I’m Xueqing Gao
+<!-- ## Hi, I'm Xueqing Gao -->
 
-I’m currently pursuing a second Bachelor's degree at Tongji University and working as a visiting student in the Haibin Ling Lab at Westlake University. My research interests lie at the intersection of optics and machine learning, with a focus on physics-based visls ~/.ssh/id_rsa.pub
-ion and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Yuchuan Qiao group at Fudan University.  
+<!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
+
+I'm currently a visiting student supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> at Westlake University. My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
 **<span style="color:red">I am currently looking for PhD positions starting in Fall 2026.</span>**
 
 ---
@@ -39,17 +37,39 @@ ion and inverse problems, including computational imaging beyond physical limita
 ## 🎓 Education
 
 **Tongji University**, Shanghai, China  
-- B.E. in Mechatronic Engineering, *Sep. 2021 – Jul. 2022*  
-- B.E. in Optoelectronic Information Science and Engineering, *Sep. 2022 – Jul. 2025*  
-- GPA (Major): **90.4/95.0**, Ranked **3rd/46**
+- Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*  
+- B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*  
+- GPA (Major): **90.4/100.0**, Ranked **3rd/46**
+
+---
+
+## 📰 News
+
+{% include news.liquid limit=true %}
 
 ---
 
 ## 📄 Selected Publications
+*†Equal contribution*
+- **[Under Review](/assets/pdf/Dehaze.pdf)**  
+  <!-- *Submitted to CVPR 2026*  -->
 
-- **UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation**  
-  *MICCAI 2025 (Oral, Top 2% acceptance)*  
-  Xueqing Gao†, Rizhong Lin†, Jianhui Feng, Yonggang Shi, Yuchuan Qiao
+  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Binghuang Yao</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> 
+
+  <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
+
+- **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)**  
+  *MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)*  
+  **Xueqing Gao**†, <a href="https://people.epfl.ch/rizhong.lin/?lang=en" target="_blank">Rizhong Lin</a>†, Jianhui Feng, <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>, <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>  
+  [Slides](/assets/pdf/Oral12-4-Xueqing.pdf)  
+
+- **[Graphene-Gated Control of Ag Nanowire Infrared Polaritons](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04167)**  
+  *Nano Letters (IF: 9.6)*  
+  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and <a href="https://ipoe.tongji.edu.cn/en/info/1511/1424.htm" target="_blank">Tao Jiang</a>  
+  
+
+
+  <!-- *Supervised by Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> and collaborated with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>* -->
 
 <!-- - **Empowering Biomedical Research with Foundation Models in Computational Microscopy**  
   *Advanced Intelligent Systems, IF 6.8*  
@@ -57,9 +77,7 @@ ion and inverse problems, including computational imaging beyond physical limita
 
 <!-- For the full list, see the [publications page](/publications/). -->
 
----
-
-## 🧪 Selected Projects
+<!-- ## 🧪 Selected Projects
 
 **Envelope Occlusion Simulation and Recovery using Diffusion Models**  
 *Apr 2025 – Present · Stony Brook University (PI: Prof. Haibin Ling)*  
@@ -76,7 +94,7 @@ ion and inverse problems, including computational imaging beyond physical limita
 - Developed UFO-3 and FoCUS models with physics-informed constraints  
 - Achieved sub-second inference and strong generalization across populations
 
----
+--- -->
 
 ## 🏆 Awards
 
@@ -85,37 +103,30 @@ ion and inverse problems, including computational imaging beyond physical limita
 
 ---
 
-## 🔧 Skills & Tools
+<!-- ## 🔧 Skills & Tools
 
 - **Programming**: Python, MATLAB, Julia, C/C++  
 - **Frameworks**: PyTorch, TensorFlow, OpenCV  
 - **Tools**: Zemax, SolidWorks, COMSOL, STM32CubeIDE, Origin
 
----
+--- -->
 
-## 🌐 Online Presence
+## 🌐 Blog
 
-- 🧠 Blog: [Awesome Computational Imaging](https://tensor2023.github.io/Awesome-Computational-Imaging/index.html)  
-- 💼 GitHub: [tensor2023](https://github.com/tensor2023)  
-- ✉️ Email: [xqgao_tj@outlook.com](mailto:xqgao_tj@outlook.com)
+[Awesome Computational Imaging](https://tensor2023.github.io/Awesome-Computational-Imaging/index.html)
 
 ---
 
 ## Miscellaneous
 
-Outside of research, I enjoy:
-
-- Cycling
-- Painting
-- K-pop dance
-- Volleyball
+Outside of research, I enjoy: Cycling, Painting, K-pop dance, and Volleyball.
 
 I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*.
 
 I have a corgi who keeps me company:
 
-![My Corgi](/assets/img/Mydog.jpg)
+{% include figure.liquid path="assets/img/Mydog.jpg" title="My Corgi" class="img-fluid rounded z-depth-1" width="25%" %}
 
 ---
 
-_Last updated: Sep. 20, 2025_
+_Last updated: Dec. 20, 2025_
