@@ -109,3 +109,4 @@ jobs:
           folder: _site
           branch: gh-pages
           clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
