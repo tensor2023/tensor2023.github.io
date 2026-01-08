@@ -121,7 +121,7 @@ I'm currently a visiting student supervised by Prof. <a href="https://haibinling
 
 Outside of research, I enjoy: Cycling, Painting, K-pop dance, and Volleyball.
 
-Here is a [Video](https://xueqinggao.github.io/harmonica.mp4) of me playing my high school (Nanning No.2 High School) alma mater song on the harmonica. I love music.
+Here is a [Video](/assets/video/harmonica.mp4) of me playing my high school (Nanning No.2 High School) alma mater song on the harmonica. I love music.
 
 I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*.
 
