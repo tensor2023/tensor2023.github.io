@@ -50,22 +50,22 @@ I'm currently a visiting student supervised by Prof. <a href="https://haibinling
 ---
 
 ## 📄 Selected Publications
-*†Equal contribution*
+*†Equal contribution, *Corresponding author
 - **[Under Review](/assets/pdf/Dehaze.pdf)**  
   <!-- *Submitted to CVPR 2026*  -->
 
-  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Binghuang Yao</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> 
+  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Binghuang Yao</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* 
 
   <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
 
 - **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)**  
   *MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)*  
-  **Xueqing Gao**†, <a href="https://people.epfl.ch/rizhong.lin/?lang=en" target="_blank">Rizhong Lin</a>†, Jianhui Feng, <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>, <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>  
+  **Xueqing Gao**†, <a href="https://people.epfl.ch/rizhong.lin/?lang=en" target="_blank">Rizhong Lin</a>†, Jianhui Feng, <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>, <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>*  
   [Slides](/assets/pdf/Oral12-4-Xueqing.pdf)  
 
 - **[Graphene-Gated Control of Ag Nanowire Infrared Polaritons](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04167)**  
   *Nano Letters (IF: 9.6)*  
-  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and <a href="https://ipoe.tongji.edu.cn/en/info/1511/1424.htm" target="_blank">Tao Jiang</a>  
+  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and <a href="https://ipoe.tongji.edu.cn/en/info/1511/1424.htm" target="_blank">Tao Jiang</a>*  
   
 
 
@@ -120,6 +120,8 @@ I'm currently a visiting student supervised by Prof. <a href="https://haibinling
 ## Miscellaneous
 
 Outside of research, I enjoy: Cycling, Painting, K-pop dance, and Volleyball.
+
+Here is a [Video](https://xueqinggao.github.io/harmonica.mp4) of me playing my high school (Nanning No.2 High School) alma mater song on the harmonica. I love music.
 
 I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*.
 
