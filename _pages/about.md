@@ -29,8 +29,11 @@ latest_posts:
 
 <!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
 
-I'm currently a visiting student supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> at Westlake University. My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
-**<span style="color:red">I am currently looking for PhD positions starting in Fall 2026.</span>**
+I'm currently a visiting student supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> at Westlake University.
+**<span style="color:red">I am still exploring my research interests, and I would welcome any guidance or suggestions.</span>**
+ <!-- My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability.  -->
+I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
+**<span style="color:red">I am currently exploring job and PhD opportunities.</span>**
 
 ---
 
@@ -119,11 +122,12 @@ I'm currently a visiting student supervised by Prof. <a href="https://haibinling
 
 ## Miscellaneous
 
-Outside of research, I enjoy: Cycling, Painting, K-pop dance, and Volleyball.
+<!-- Outside of research, I enjoy: Cycling, Painting, K-pop dance, and Volleyball. -->
 
 Here is a [Video](/assets/video/harmonica.mp4) of me playing my high school (Nanning No.2 High School) alma mater song on the harmonica. I love music.
 
-I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*.
+<!-- I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*. -->
+I like Barbie, especially [Barbie: Princess Charm School](https://www.youtube.com/watch?v=YnwpHeceNOE).
 
 I have a corgi who keeps me company:
 
@@ -131,4 +135,4 @@ I have a corgi who keeps me company:
 
 ---
 
-_Last updated: Dec. 20, 2025_
+_Last updated: Jan. 11, 2026_
