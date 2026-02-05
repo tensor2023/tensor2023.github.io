@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an invited talk at the **Medical Image Computing Seminar (MICS)** on **UFO‑3: Unsupervised Three-Compartment Learning for FOD Estimation**, presenting our MICCAI 2025 oral work. Thanks to the organizers for the opportunity!
+I gave an invited talk at the **Medical Image Computing Seminar (MICS)** on **UFO-3: Unsupervised Prediction of White Matter Fibers**, presenting our MICCAI 2025 oral work. Thanks to the organizers for the opportunity!
