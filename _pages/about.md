@@ -30,9 +30,9 @@ latest_posts:
 <!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
 
 I'm currently a visiting student supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> at Westlake University.
-**<span style="color:red">I am still exploring my research interests, and I would welcome any guidance or suggestions.</span>**
- <!-- My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability.  -->
-I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
+<!-- **<span style="color:red">I am still exploring my research interests, and I would welcome any guidance or suggestions.</span>** -->
+My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. 
+I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>'s group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
 **<span style="color:red">I am currently exploring job and PhD opportunities.</span>**
 
 ---
@@ -57,7 +57,7 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 - **[Under Review](/assets/pdf/Dehaze.pdf)**  
   <!-- *Submitted to CVPR 2026*  -->
 
-  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Binghuang Yao</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* 
+  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Bingyao Huang</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* 
 
   <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
 
