@@ -15,7 +15,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -42,6 +42,12 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 - Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*
 - B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*
+
+---
+
+## 📰 News
+
+{% include news.liquid limit=true %}
 
 ---
 
@@ -103,10 +109,6 @@ Here is a [Video](/assets/video/harmonica.mp4) of me playing my high school (Nan
 <!-- I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*. -->
 
 I like Barbie, especially [Barbie: Princess Charm School](https://www.youtube.com/watch?v=YnwpHeceNOE).
-
-I have a corgi who keeps me company:
-
-{% include figure.liquid path="assets/img/Mydog.jpg" title="My Corgi" class="img-fluid rounded z-depth-1" width="25%" %}
 
 ---
 
