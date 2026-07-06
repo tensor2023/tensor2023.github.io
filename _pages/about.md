@@ -6,10 +6,8 @@ subtitle: '<i class="fa-solid fa-envelope"></i> xqgao_tj AT outlook DOT com  <i 
 
 profile:
   align: right
-  image: Me.jpg
+  image: Me.png
   image_circular: false
-  more_info: >
-    <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>This photo was taken in Shatoujiao (沙头角), Shenzhen in July 2025. I love this sea.</em></p>
 
 selected_papers: false
 social: true
