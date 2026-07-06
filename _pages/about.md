@@ -45,12 +45,6 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 ---
 
-## 📰 News
-
-{% include news.liquid limit=true %}
-
----
-
 ## 📄 Selected Publications
 
 *†Equal contribution, *Corresponding author
