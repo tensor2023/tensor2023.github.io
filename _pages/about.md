@@ -52,11 +52,9 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 *†Equal contribution, *Corresponding author
 
-- **[Under Review](/assets/pdf/Dehaze.pdf)**
+- **[Scattering-Aware Unpaired Test-Time Haze Refinement](/assets/pdf/Dehaze.pdf)**
 
-  <!-- *Submitted to CVPR 2026*  -->
-
-  **Xueqing Gao**, Zhijian Wu, Bingyao Huang, Yefeng Zheng (*IEEE Fellow*), Haibin Ling (*IEEE Fellow*)
+  **Xueqing Gao**, Zhijian Wu, Bingyao Huang, Yefeng Zheng, Haibin Ling
 
   <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
 - **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)** *MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)*
