@@ -36,6 +36,14 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 ---
 
+## 📝 Recent Update
+
+**[The Generalization Imperative (4/4): Interpretability, Weak-to-Strong, and the Path Forward →](https://tensor2023.github.io/blog/2026/generalization-imperative-part-4/)**
+
+*A 4-part survey of 43 papers on generalization in deep learning — from grokking to causal reasoning, from world models to weak-to-strong supervision.*
+
+---
+
 ## 📰 News
 
 {% include news.liquid limit=true %}
