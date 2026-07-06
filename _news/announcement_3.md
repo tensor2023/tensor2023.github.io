@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invited Talk at MICS Seminar (Medical Image Computing Seminar)
-date: 2025-09-16 10:00:00
+date: 2025-11-01 10:00:00
 inline: true
 related_posts: false
 ---

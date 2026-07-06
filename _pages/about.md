@@ -15,7 +15,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 
@@ -28,14 +28,11 @@ latest_posts:
 
 <!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
 
-I'm currently a Agent Full Stack ENgineer at a AI startup.
+I'm currently an Agent Full Stack Engineer at an AI startup.
 
-<!-- **<span style="color:red">I am still exploring my research interests, and I would welcome any guidance or suggestions.</span>** -->
+My research interests lie at the intersection of architectural principles for generalization and interpretable models of the living brain, motivated by my diffusion MRI work on brain microstructure and a long-standing fascination with neuroscience.
 
-My research interests lie at
-I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Prof. 's group at Fudan University, collaborating with Prof.  at University of Southern California. and then i was a RA at westlake univ. supervised by prof haibin ling.
-
-
+I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering. I previously conducted research as a visiting student in Prof. Yuchuan Qiao's group at Fudan University, collaborating with Prof. Yonggang Shi at the University of Southern California, and then worked as a research assistant at Westlake University, supervised by Prof. Haibin Ling.
 
 ---
 
@@ -45,7 +42,6 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 - Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*
 - B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*
-- GPA (Major): **90.4/100.0**, Ranked **3rd/46**
 
 ---
 
@@ -98,12 +94,6 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 --- -->
 
-## 🏆 Awards
-
-- 🏅 Zhuiyuan Scholarship for Optical Research (2024)
-- 🥇 Outstanding Undergraduate Scholarship, Tongji University (2022–2024)
-
----
 
 <!-- ## 🔧 Skills & Tools
 
@@ -112,12 +102,6 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 - **Tools**: Zemax, SolidWorks, COMSOL, STM32CubeIDE, Origin
 
 --- -->
-
-## 🌐 Blog
-
-[Awesome Computational Imaging](https://tensor2023.github.io/Awesome-Computational-Imaging/index.html)
-
----
 
 ## Miscellaneous
 
@@ -135,4 +119,4 @@ I have a corgi who keeps me company:
 
 ---
 
-_Last updated: Jan. 11, 2026_
+_Last updated: Jul. 6, 2026_
