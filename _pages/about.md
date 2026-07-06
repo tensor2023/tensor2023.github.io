@@ -24,24 +24,27 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
 <!-- ## Hi, I'm Xueqing Gao -->
 
 <!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
 
-I'm currently a visiting student supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a> at Westlake University.
+I'm currently a Agent Full Stack ENgineer at a AI startup.
+
 <!-- **<span style="color:red">I am still exploring my research interests, and I would welcome any guidance or suggestions.</span>** -->
-My research interests lie at the intersection of optics and machine learning, with a focus on physics-based vision and inverse problems, including computational imaging beyond physical limitations, reconstruction, optimization, and interpretability. 
-I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>'s group at Fudan University, collaborating with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a> at University of Southern California.  
-**<span style="color:red">I am currently exploring job and PhD opportunities.</span>**
+
+My research interests lie at
+I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering and previously conducted research as a visiting student in the Prof. 's group at Fudan University, collaborating with Prof.  at University of Southern California. and then i was a RA at westlake univ. supervised by prof haibin ling.
+
+
 
 ---
 
 ## 🎓 Education
 
-**Tongji University**, Shanghai, China  
-- Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*  
-- B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*  
+**Tongji University**, Shanghai, China
+
+- Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*
+- B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*
 - GPA (Major): **90.4/100.0**, Ranked **3rd/46**
 
 ---
@@ -53,24 +56,20 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 ---
 
 ## 📄 Selected Publications
+
 *†Equal contribution, *Corresponding author
-- **[Under Review](/assets/pdf/Dehaze.pdf)**  
+
+- **[Under Review](/assets/pdf/Dehaze.pdf)**
+
   <!-- *Submitted to CVPR 2026*  -->
 
-  **Xueqing Gao**, Zhijian Wu, <a href="https://scholar.google.com/citations?user=GyyV2lkAAAAJ&hl=en" target="_blank">Bingyao Huang</a>, <a href="https://medai.lab.westlake.edu.cn/Team.htm" target="_blank">Yefeng Zheng</a> , <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* 
+  **Xueqing Gao**, Zhijian Wu, ,  , *
 
   <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
-
-- **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)**  
-  *MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)*  
-  **Xueqing Gao**†, <a href="https://people.epfl.ch/rizhong.lin/?lang=en" target="_blank">Rizhong Lin</a>†, Jianhui Feng, <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>, <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a>*  
-  [Slides](/assets/pdf/Oral12-4-Xueqing.pdf)  
-
-- **[Graphene-Gated Control of Ag Nanowire Infrared Polaritons](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04167)**  
-  *Nano Letters (IF: 9.6)*  
-  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and <a href="https://ipoe.tongji.edu.cn/en/info/1511/1424.htm" target="_blank">Tao Jiang</a>*  
-  
-
+- **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)***MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)***Xueqing Gao**†, †, Jianhui Feng, , *[Slides](/assets/pdf/Oral12-4-Xueqing.pdf)
+- **[Graphene-Gated Control of Ag Nanowire Infrared Polaritons](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04167)**
+  *Nano Letters (IF: 9.6)*
+  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and *
 
   <!-- *Supervised by Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> and collaborated with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>* -->
 
@@ -101,7 +100,7 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 ## 🏆 Awards
 
-- 🏅 Zhuiyuan Scholarship for Optical Research (2024)  
+- 🏅 Zhuiyuan Scholarship for Optical Research (2024)
 - 🥇 Outstanding Undergraduate Scholarship, Tongji University (2022–2024)
 
 ---
@@ -127,6 +126,7 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 Here is a [Video](/assets/video/harmonica.mp4) of me playing my high school (Nanning No.2 High School) alma mater song on the harmonica. I love music.
 
 <!-- I'm also a fan of the manga *Medalist*, especially the character *Inori Yuitsuka*. -->
+
 I like Barbie, especially [Barbie: Princess Charm School](https://www.youtube.com/watch?v=YnwpHeceNOE).
 
 I have a corgi who keeps me company:
