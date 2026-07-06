@@ -161,3 +161,41 @@ Both modes coexist in a single model. The training distribution shapes the geome
 ---
 
 **📖 Series:** [← Part 1](/blog/2026/generalization-imperative-part-1/)  |  **Part 2**  |  [Part 3 →](/blog/2026/generalization-imperative-part-3/)  |  [Part 4](/blog/2026/generalization-imperative-part-4/)
+---
+
+## References
+
+<a id="ref1"></a>[1] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building Machines That Learn and Think Like People. *Behavioral and Brain Sciences*, 40, e253. arXiv:1604.00289.
+
+<a id="ref3"></a>[3] Vinyals, O., Blundell, C., Lillicrap, T., Kavukcuoglu, K., & Wierstra, D. (2016). Matching Networks for One Shot Learning. *NeurIPS 2016*. arXiv:1606.04080.
+
+<a id="ref4"></a>[4] Santoro, A., Bartunov, S., Botvinick, M., Wierstra, D., & Lillicrap, T. (2016). Meta-Learning with Memory-Augmented Neural Networks. *ICML 2016*. arXiv:1605.06065.
+
+<a id="ref5"></a>[5] Finn, C., Abbeel, P., & Levine, S. (2017). Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017*. arXiv:1703.03400.
+
+<a id="ref7"></a>[7] Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2019). Invariant Risk Minimization. arXiv:1907.02893.
+
+<a id="ref12"></a>[12] Power, A., Burda, Y., Edwards, H., Babuschkin, I., & Misra, V. (2022). Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets. arXiv:2201.02177.
+
+<a id="ref14"></a>[14] Lake, B. M. & Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network. *Nature*, 623, 115–121. arXiv:2310.01673.
+
+<a id="ref15"></a>[15] Kawata, R., Song, Y., Bietti, A., Nishikawa, N., Suzuki, T., Vaiter, S., & Wu, D. (2025). From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers. *NeurIPS 2025*. arXiv:2512.18634.
+
+<a id="ref20"></a>[20] Truong, X. K. et al. (2026). Spectral Entropy Collapse as a Phase Transition in Delayed Generalisation: An Interventional and Predictive Framework for Grokking. arXiv:2604.13123.
+
+<a id="ref21"></a>[21] Hidajat, K., Stoll, S., & An, J. (2026). Grokking as Structural Inference: Transformers Need Bayesian Lottery Tickets. arXiv:2605.15787.
+
+<a id="ref22"></a>[22] Yan, H., Yang, H., & Zhong, Y. (2026). Task Vector Geometry Underlies Dual Modes of Task Inference in Transformers. arXiv:2605.03780.
+
+<a id="ref27"></a>[27] Wen, J., Wu, Z., Song, D., & Chen, L. (2026). Generalization Dynamics of LM Pre-training. Blog post, May 2026. https://jiaxin-wen.github.io/blog/generalization-dynamics
+
+<a id="ref28"></a>[28] Litman, E. & Guo, G. (2026). A Theory of Generalization in Deep Learning. arXiv:2605.01172.
+
+<a id="ref30"></a>[30] Pham, B., Raya, G., Negri, M., Zaki, M. J., Ambrogioni, L., & Krotov, D. (2025). Memorization to Generalization: Emergence of Diffusion Models from Associative Memory. arXiv:2505.21777.
+
+<a id="ref40"></a>[40] Sundaram, S., Quan, J., Kwiatkowski, A., Ahuja, K., Ollivier, Y., & Kempe, J. (2026). Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability. *ICML 2026*. arXiv:2601.18778.
+
+<a id="ref41"></a>[41] Rajaraman, N., Huang, A., Dudik, M., Schapire, R., Foster, D., & Krishnamurthy, A. (2026). Learning to Reason with Curriculum II: Compositional Generalization. arXiv:2606.27721.
+
+
+*This is Part 2 of a 4-part series surveying 43 papers on generalization in deep learning. Full references across all parts are available in [Part 4](/blog/2026/generalization-imperative-part-4/).*

@@ -101,3 +101,25 @@ This result resonates with Kawata et al.'s phase transition theory <a href="#ref
 ---
 
 **📖 Series:** [Part 1](/blog/2026/generalization-imperative-part-1/)  |  [← Part 2](/blog/2026/generalization-imperative-part-2/)  |  **Part 3**  |  [Part 4 →](/blog/2026/generalization-imperative-part-4/)
+---
+
+## References
+
+<a id="ref6"></a>[6] Ha, D. & Schmidhuber, J. (2018). World Models. *NeurIPS 2018*. arXiv:1803.10122.
+
+<a id="ref7"></a>[7] Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2019). Invariant Risk Minimization. arXiv:1907.02893.
+
+<a id="ref15"></a>[15] Kawata, R., Song, Y., Bietti, A., Nishikawa, N., Suzuki, T., Vaiter, S., & Wu, D. (2025). From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers. *NeurIPS 2025*. arXiv:2512.18634.
+
+<a id="ref31"></a>[31] Schölkopf, B., Locatello, F., Bauer, S., Ke, N. R., Kalchbrenner, N., Goyal, A., & Bengio, Y. (2021). Toward Causal Representation Learning. *Proceedings of the IEEE*, 109(5), 612–634.
+
+<a id="ref32"></a>[32] 郭若城, 程璐, 刘昊, 刘欢. (2023). 《因果推断与机器学习》. 电子工业出版社. (Chapter 3: 因果表征学习与泛化能力)
+
+<a id="ref33"></a>[33] 因果强化学习统一框架综述 (2025). A Unified Framework for Causal Reinforcement Learning: Survey, Taxonomy, Algorithms, and Applications.
+
+<a id="ref34"></a>[34] Physical Intelligence (π). (2025). π0.5: A Vision-Language-Action Model with Open-World Generalization. Blog post, April 2025. https://www.pi.website/blog/pi05. arXiv:2504.16054.
+
+<a id="ref42"></a>[42] Liu, Z., Sanborn, S., Ganguli, S., & Tolias, A. (2026). From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers. *ICML 2026*. arXiv:2602.06923.
+
+
+*This is Part 3 of a 4-part series surveying 43 papers on generalization in deep learning. Full references across all parts are available in [Part 4](/blog/2026/generalization-imperative-part-4/).*

@@ -153,3 +153,47 @@ Validated across 54 Transformer configurations on combinatorial search, this pap
 ---
 
 **📖 Series:** [Part 2 →](/blog/2026/generalization-imperative-part-2/)  |  [Part 3](/blog/2026/generalization-imperative-part-3/)  |  [Part 4](/blog/2026/generalization-imperative-part-4/)
+---
+
+## References
+
+<a id="ref1"></a>[1] Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building Machines That Learn and Think Like People. *Behavioral and Brain Sciences*, 40, e253. arXiv:1604.00289.
+
+<a id="ref2"></a>[2] Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2017). Understanding Deep Learning Requires Rethinking Generalization. *ICLR 2017*. arXiv:1611.03530.
+
+<a id="ref8"></a>[8] Bhattamishra, S., Ahuja, K., & Goyal, N. (2020). On the Ability and Limitations of Transformers to Recognize Formal Languages. *EMNLP 2020*. arXiv:2009.11264.
+
+<a id="ref9"></a>[9] Irie, K. (2020). Language Models as Representations with Reduced Self-Attention. *ICASSP 2020*.
+
+<a id="ref10"></a>[10] Csordás, R., Irie, K., & Schmidhuber, J. (2021). The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers. *EMNLP 2021*. arXiv:2108.12284.
+
+<a id="ref11"></a>[11] Csordás, R., Irie, K., & Schmidhuber, J. (2022). The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization. *ICLR 2022*. arXiv:2110.07732.
+
+<a id="ref13"></a>[13] Delétang, G., Ruoss, A., Grau-Moya, J., Genewein, T., Wenliang, L. K., Catt, E., Cundy, C., Hutter, M., Legg, S., Veness, J., & Ortega, P. A. (2023). Neural Networks and the Chomsky Hierarchy. *ICLR 2023*. arXiv:2207.02098.
+
+<a id="ref16"></a>[16] Altabaa, A., Chen, S., Lafferty, J., & Yang, Z. (2025). Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning. arXiv:2510.14095.
+
+<a id="ref17"></a>[17] Chen, H.-H. (2026). Thinking Deeper, Not Longer: Depth-Recurrent Transformers for Compositional Generalization. arXiv:2603.21676.
+
+<a id="ref18"></a>[18] Schwethelm, K., Rueckert, D., & Kaissis, G. (2026). How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models. arXiv:2604.21106.
+
+<a id="ref19"></a>[19] Sapunov, G. (2026). Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning. arXiv:2604.21999.
+
+<a id="ref23"></a>[23] Zhang, Y., Zhang, Y., Zhou, X., & Chen, X. (2026). A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits. arXiv:2605.19944.
+
+<a id="ref25"></a>[25] Sutskever, I. (2023). An Observation on Generalization. Talk at Simons Institute, UC Berkeley, August 2023. https://simons.berkeley.edu/news/observation-generalization
+
+<a id="ref26"></a>[26] Gu, A. (2024). Data Efficiency. Essay. Albert Gu is Assistant Professor of Machine Learning at Carnegie Mellon University and Chief Scientist of Cartesia AI. Appeared on *TIME*'s list of the most influential people in AI, 2024.
+
+<a id="ref29"></a>[29] Sutskever, I. (2025). Interview with Dwarkesh Patel, November 2025. https://www.dwarkesh.com/p/ilya-sutskever-2
+
+<a id="ref36"></a>[36] Ruiz, R. B. & Gu, A. (2025). Understanding and Improving Length Generalization in Recurrent Models. *ICML 2025 (PMLR Vol. 267)*. arXiv:2507.02782.
+
+<a id="ref37"></a>[37] Boncoraglio, F., Erba, V., Troiani, E., Xu, Y., Krzakala, F., & Zdeborová, L. (2026). Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws. *ICML 2026*. arXiv:2509.24914.
+
+<a id="ref38"></a>[38] Tabanelli, H., Dandi, Y., Pesce, L., & Krzakala, F. (2026). Efficient Learning of Compositional Targets with Hierarchical Spectral Methods. *ICML 2026*. arXiv:2602.10867.
+
+<a id="ref39"></a>[39] Parley, J. T., Cagnetta, F., & Wyart, M. (2026). Deep Networks Learn to Parse Uniform-Depth Context-Free Languages from Local Statistics. *ICML 2026*. arXiv:2602.06065.
+
+
+*This is Part 1 of a 4-part series surveying 43 papers on generalization in deep learning. Full references across all parts are available in [Part 4](/blog/2026/generalization-imperative-part-4/).*
