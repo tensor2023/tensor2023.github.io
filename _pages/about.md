@@ -28,7 +28,7 @@ latest_posts:
 
 <!-- **<span style="color:blue; font-size: 0.9em;">My personal homepage has moved to <a href="https://tensor2023.github.io" target="_blank">tensor2023.github.io</a>.</span>** -->
 
-I'm currently an Agent Full Stack Engineer at an AI startup.
+I'm currently a Full-Stack AI Engineer at [Agent Arena](https://agent-arena.tech/).
 
 My primary research interest is developing learning architectures with stronger generalization. My long-standing fascination with neuroscience, together with my previous work on brain structure, continues to shape the questions that motivate my research.
 
