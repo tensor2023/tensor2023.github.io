@@ -32,7 +32,7 @@ I'm currently an Agent Full Stack Engineer at an AI startup.
 
 My research interests lie at the intersection of architectural principles for generalization and interpretable models of the living brain, motivated by my diffusion MRI work on brain microstructure and a long-standing fascination with neuroscience.
 
-I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering. I previously conducted research as a visiting student in Prof. Yuchuan Qiao's group at Fudan University, collaborating with Prof. Yonggang Shi at the University of Southern California, and then worked as a research assistant at Westlake University, supervised by Prof. Haibin Ling.
+I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering. I previously conducted research as a visiting student in Prof. [Yuchuan Qiao](https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm)'s group at Fudan University, collaborating with Prof. [Yonggang Shi](https://nicr.ini.usc.edu/) at the University of Southern California, and then worked as a research assistant at Westlake University, supervised by Prof. [Haibin Ling](https://haibinling.github.io/).
 
 ---
 
@@ -53,15 +53,12 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
   <!-- *Submitted to CVPR 2026*  -->
 
-  **Xueqing Gao**, Zhijian Wu, ,  , *
+  **Xueqing Gao**, Zhijian Wu, Bingyao Huang, Yefeng Zheng (*IEEE Fellow*), Haibin Ling (*IEEE Fellow*)
 
   <!-- *Supervised by Prof. <a href="https://haibinling.github.io/" target="_blank">Haibin Ling</a>* -->
-- **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)***MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)***Xueqing Gao**†, †, Jianhui Feng, , *[Slides](/assets/pdf/Oral12-4-Xueqing.pdf)
-- **[Graphene-Gated Control of Ag Nanowire Infrared Polaritons](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04167)**
-  *Nano Letters (IF: 9.6)*
-  Zhenxing Wang†, Zerui Wang†, Junbo Xu, Quan Li, Baoning Wang, Lei Zhou, Yongwei Pan, **Xueqing Gao**, Hongwei Jia, Kyoung-Duck Park, Di Huang, Zhanshan Wang, Xinbin Cheng, Markus B. Raschke, and *
-
-  <!-- *Supervised by Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm" target="_blank">Yuchuan Qiao</a> and collaborated with Prof. <a href="https://nicr.ini.usc.edu/" target="_blank">Yonggang Shi</a>* -->
+- **[UFO-3: Unsupervised three-compartment learning for rapid fiber orientation distribution function estimation](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_60)** *MICCAI 2025 (<span style="background-color: yellow;">Oral</span>, Top 2.2% acceptance)*  
+  **Xueqing Gao**<sup>†</sup>, Rizhong Lin<sup>†</sup>, Jianhui Feng, Yonggang Shi, Yuchuan Qiao  
+  *[Slides](/assets/pdf/Oral12-4-Xueqing.pdf)*
 
 <!-- - **Empowering Biomedical Research with Foundation Models in Computational Microscopy**  
   *Advanced Intelligent Systems, IF 6.8*  
