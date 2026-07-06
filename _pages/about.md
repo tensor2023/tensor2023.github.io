@@ -36,15 +36,6 @@ I graduated from Tongji University in July 2025 with a Bachelor's degree in Opto
 
 ---
 
-## 🎓 Education
-
-**Tongji University**, Shanghai, China
-
-- Previously in Mechatronic Engineering, Chinesisch-Deutsche Hochschule für Angewandte Wissenschaften *Sep. 2021 -- Jul. 2022*
-- B.E. in Optoelectronic Information Science and Engineering, School of Physics Science and Engineering, *Sep. 2022 – Jul. 2025*
-
----
-
 ## 📰 News
 
 {% include news.liquid limit=true %}
