@@ -6,7 +6,7 @@ subtitle: '<i class="fa-solid fa-envelope"></i> xqgao_tj AT outlook DOT com  <i 
 
 profile:
   align: right
-  image: Me.png?v=2
+  image: Me2026.png
   image_circular: false
 
 selected_papers: false
