@@ -32,16 +32,6 @@ My primary research interest is developing learning architectures with stronger 
 
 I graduated from Tongji University in July 2025 with a Bachelor's degree in Optoelectronic Information Science and Engineering. I previously conducted research as a visiting student in Prof. [Yuchuan Qiao](https://istbi.fudan.edu.cn/lnen/info/1158/2353.htm)'s group at Fudan University, collaborating with Prof. [Yonggang Shi](https://nicr.ini.usc.edu/) at the University of Southern California, and then worked as a research assistant at Westlake University, supervised by Prof. [Haibin Ling](https://haibinling.github.io/).
 
----
-
-## 📝 Recent Update
-
-**[The Generalization Imperative (4/4): Interpretability, Weak-to-Strong, and the Path Forward →](https://tensor2023.github.io/blog/2026/generalization-imperative-part-4/)**
-
-*A 4-part survey of 43 papers on generalization in deep learning — from grokking to causal reasoning, from world models to weak-to-strong supervision.*
-
----
-
 ## 📰 News
 
 {% include news.liquid limit=true %}
@@ -106,4 +96,4 @@ I like Barbie, especially [Barbie: Princess Charm School](https://www.youtube.co
 
 ---
 
-_Last updated: Jul. 6, 2026_
+_Last updated: Jul. 9, 2026_
